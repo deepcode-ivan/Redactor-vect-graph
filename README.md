@@ -1,2 +1,2 @@
 # Redactor-vect-graph
-widows forms application with same trubles
+windows forms application with same trubles
